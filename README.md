@@ -1,4 +1,4 @@
-# GoogleCloud
+## Storing data in Google Buckets
 
 This project was given to introduce us to cloud computing technologies and services such as Google Cloud Storage.
 
