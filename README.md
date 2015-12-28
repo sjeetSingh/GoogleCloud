@@ -4,8 +4,9 @@ This project was given to introduce us to cloud computing technologies and servi
 
 Things executed:
 
-1. Upload a file in the Google Cloud Storage. The files were stored in the Bucket.
+1. Upload a file in the Google Cloud Storage. The files were stored in the Bucket storage.
 2. List (see) the files already present in the Bucket.
 3. Download the file from the Bucket.
 4. Delete the file from the Bucket.
 
+The implementation was executed in **Python**.
